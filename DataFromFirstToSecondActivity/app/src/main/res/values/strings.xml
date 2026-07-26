@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataFromFirstToSecondActivity</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+    <string name="go_to_button">Go To Next</string>
+    <string name="go_back_button">Go To First</string>
+    <string name="activity1Data">Activity 1 Data</string>
+</resources>

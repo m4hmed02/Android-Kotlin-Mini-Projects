@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekBar</string>
+    <string name="app_text">What the rating of Kotlin?</string>
+    <string name="result">Result : </string>
+</resources>
