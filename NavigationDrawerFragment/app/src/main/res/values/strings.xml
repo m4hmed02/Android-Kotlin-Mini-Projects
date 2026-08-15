@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawerFragment</string>
+    <string name="text_menu_messages">Messages</string>
+    <string name="text_menu_chat">Chat</string>
+    <string name="text_menu_profile">Profile</string>
+    <string name="text_menu_communicate">Communicate</string>
+    <string name="text_menu_send">Send</string>
+    <string name="text_menu_share">Share</string>
+    <string name="user_name">User Name</string>
+    <string name="user_gmail">user@gmail.com</string>
+    <string name="navigation_drawer_open">Open navigation bar</string>
+    <string name="navigation_drawer_close">Close navigation bar</string>
+    <string name="message_fragment">Message Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="chat_fragment">Chat Fragment</string>
+</resources>

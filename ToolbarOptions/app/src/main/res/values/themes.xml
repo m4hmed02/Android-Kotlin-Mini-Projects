@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToolbarOptions" parent="Theme.Material3.DayNight.NoActionBar">
+<!--        <item name="colorPrimary">@color/design_default_color_primary</item>-->
+    </style>
+
+    <style name="Theme.ToolbarOptions" parent="Base.Theme.ToolbarOptions" />
+</resources>
