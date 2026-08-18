@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="open_dialog_button_text">Open Dialog</string>
+    <string name="bottom_sheet_dialog_layout">Bottom Sheet Dialog</string>
+</resources>
