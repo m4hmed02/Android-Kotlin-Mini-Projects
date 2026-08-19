@@ -3,5 +3,4 @@
     <string name="edit_text_title_hint">Title</string>
     <string name="edit_text_description_hint">Description</string>
     <string name="save_button">Save</string>
-    <string name="edit_text_priority">Priority</string>
 </resources>
